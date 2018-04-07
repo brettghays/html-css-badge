@@ -1,0 +1,17 @@
+#test {
+    color: blue;
+    font-weight: bold;
+}
+
+h1 {
+    color: purple;
+}
+
+span {
+    font-size: 5em;
+}
+
+span:hover {
+    color: yellow;
+    cursor: pointer;
+}
